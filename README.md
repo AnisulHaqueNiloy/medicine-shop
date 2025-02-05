@@ -28,7 +28,6 @@ MediStore is a fully-featured multi-vendor e-commerce platform built with the ME
 
 *   MERN Stack (MongoDB, Express.js, React, Node.js)
 *   Stripe
-*   [Add other technologies used, e.g., specific UI libraries, state management solutions, etc.]
 
 ## Core Features
 
