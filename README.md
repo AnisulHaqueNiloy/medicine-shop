@@ -4,13 +4,14 @@
 
 ---
 
-## Admin Username: admin@medistore.com
+## User1234@gmail.com
+## User1234
 
-## Admin Password: admin123
+## Seller1234@gmail.com
+## Seller1234
 
-## Seller Username: seller@medistore.com
-
-## Seller Password: seller123
+## Admin1234@gmail.com
+## Admin1234
 
 ## Features
 
